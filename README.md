@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm  Carolina Molina from Uruguay<br><br>- 🔭 I’m currently a Student for HolbertonSchool in Uruguay<br>- 📚 I'm currently learning React <br>- ⚡ In my free time I enjoy reading and focusing myself in new projects</p>
+<p align="left">I'm  Carolina Molina from Uruguay<br><br>- 🔭 Alumni at HolbertonSchool Uruguay<br>- 📚 I'm currently learning React <br>- ⚡ In my free time I enjoy reading and focusing myself in new projects</p>
 
 ###
 
